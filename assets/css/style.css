@@ -42,7 +42,7 @@ header {
 
 .navBar {
     max-width: 960px;
-    margin: auto 20px;
+    margin: auto;
     height: 100%;
 }
 
@@ -63,6 +63,7 @@ nav a {
     border: none 1px #cccccc;
     padding-left: 10px;
     font-size: 20px;
+    padding-top: 10px;
 }
 
 .content {
@@ -75,7 +76,7 @@ nav a {
     height: auto;
     padding: 30px;
     /* margin-bottom: 90px; */
-    margin: 50px 20px 100px;
+    margin: 50px auto 100px;
     background: #ffffff;
     position: relative;
     max-width: 960px;
